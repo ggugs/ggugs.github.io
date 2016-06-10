@@ -306,8 +306,8 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.428571429;
-  color: #ffb3da;
-  background-color: #ffb3da;
+  color: #333333;
+  background-color: #ffffff;
 }
 
 input,
@@ -371,7 +371,7 @@ hr {
   margin-top: 20px;
   margin-bottom: 20px;
   border: 0;
-  border-top: 1px solid #eeeeee;
+  border-top: 1px solid #ffb3da;
 }
 
 .sr-only {
