@@ -371,7 +371,7 @@ hr {
   margin-top: 20px;
   margin-bottom: 20px;
   border: 0;
-  border-top: 1px solid #ffb3da;
+  border-top: 1px solid #eeeeee;
 }
 
 .sr-only {
@@ -762,7 +762,7 @@ pre {
   color: #333333;
   word-break: break-all;
   word-wrap: break-word;
-  background-color: #f5f5f5;
+  background-color: #ffb3da;
   border: 1px solid #cccccc;
   border-radius: 4px;
 }
