@@ -749,7 +749,7 @@ code {
   font-size: 90%;
   color: #c7254e;
   white-space: nowrap;
-  background-color: #ffb3da;
+  background-color: #f9f2f4;
   border-radius: 4px;
 }
 
@@ -6230,7 +6230,7 @@ button.close {
   font-size: 14px;
   font-weight: normal;
   line-height: 18px;
-  background-color: #f7f7f7;
+  background-color: #ffb3da;
   border-bottom: 1px solid #ebebeb;
   border-radius: 5px 5px 0 0;
 }
